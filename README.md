@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋, I'm Daria Szubierajska
 
 <!--
 **Daria0304/Daria0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
