@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm Daria Szubierajska
 
-👷‍♀️ I'm a Frontend developer interested in Web Development, Web Accessibility, UI Design.
+👷‍♀️ Frontend Developer | Web Accessibility | JavaScript/TypeScript/React/Vue projects
 
 🚀 Reach me at: d.szubierajska@gmail.com
 
