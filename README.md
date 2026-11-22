@@ -1,8 +1,8 @@
-## Hey there 👋, I'm Daria Szubierajska
+## Hey there 👋, I'm Daria Borysławska
 
-👷‍♀️ Frontend Developer | Web Accessibility | JavaScript/TypeScript/React/Vue projects
+👷‍♀️ Frontend Engineer | React & TypeScript | Web Accessibility | AI-Assisted Development
 
-🚀 Reach me at: d.szubierajska@gmail.com
+🚀 Reach me at: daria.boryslawska@gmail.com
 
 <!--
 **Daria0304/Daria0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
